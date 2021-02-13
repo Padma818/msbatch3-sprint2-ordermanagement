@@ -1,0 +1,13 @@
+insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (1, 'Oredr1', 500);
+insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (2, 'Oredr2', 600);
+insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (3, 'Oredr3', 700);
+insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (4, 'Oredr4', 800);
+insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (5, 'Oredr5', 850);
+insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (6, 'Oredr6', 900);
+insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (7, 'Oredr7', 950);
+insert into SL_ORDERS(ID, NAME, TOTAL_AMOUNT ) values (8, 'Oredr8', 975);
+insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (1, 'Item1', 1000, 599, 599, 1);
+insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (2, 'Item2', 1000, 699, 699, 1);
+insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (3, 'Item3', 1000, 699, 699, 1);
+insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (4, 'Item4', 1000, 699, 699, 1);
+insert into SL_ITEMS(ID,  NAME, QUANTITY, PRICE, AMOUNT , ORDERS_ID) values (5, 'Item5', 1000, 699, 699, 1);
